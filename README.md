@@ -118,7 +118,7 @@ Documentation for our code samples can be found [here](samples).
 - Q: Where can I get the Base TensorFlow container image?
   - A: Please visit this link [here](https://ibm.github.io/ibm-z-oss-hub/containers/tensorflow.html).
 - Where can I find steps to build TensorFlow on IBM z16™?
-  - A: Please visit this link [here](https://ibm.github.io/ibm-z-oss-hub/containers/tensorflow.html).
+  - A: Please visit this link [here](https://github.com/linux-on-ibm-z/docs/wiki/Building-TensorFlow).
 - Q: How do I install the zDNN library?
   - A: As mentioned in the above section, “Getting Started”, on supported Linux distributions like Ubuntu 22.04, you may use a package manager to install. On other Linux distributions, it can be built and installed by source.
 
