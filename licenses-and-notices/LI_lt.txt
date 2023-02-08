@@ -1,0 +1,12 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal ðias Licencijos informacijos sàlygas, kurios papildo Programos licencijos sàlygas, dël kuriø susitarë Klientas ir IBM. Jei Klientas anksèiau nëra sutikæs su Programai taikomomis licencijos sàlygomis, taikoma Programø, kurioms neteikiama garantija, tarptautinë licencinë sutartis (i125-5589-06).
+
+Programos pavadinimas (Programos numeris):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

@@ -1,0 +1,12 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programme ohne Gewährleistung (i125-5589-06).
+
+Programmname (Programmnummer):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

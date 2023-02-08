@@ -1,0 +1,12 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Programy nieobjête Gwarancj± (i125-5589-06).
+
+Nazwa Programu (Numer Programu):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

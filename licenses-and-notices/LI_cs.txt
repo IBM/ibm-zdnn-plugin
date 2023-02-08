@@ -1,0 +1,12 @@
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (i125-5589-06).
+
+Název Programu (Èíslo Programu):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

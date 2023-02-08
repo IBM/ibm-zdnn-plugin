@@ -41,7 +41,7 @@ After the above prerequisites have been successfully installed, (i.e., TensorFlo
 
 ### Installing IBM-zDNN-Plugin
 
-- Install IBM-zDNN-Plugin from the binary distribution platform targetted for manylinux_2_27_s390x from [PyPi](LINK_HERE)
+- Install IBM-zDNN-Plugin from the binary distribution platform targetted for manylinux_2_27_s390x from [PyPi](https://pypi.org/project/ibm-zdnn-plugin/)
   - `pip3 install ibm-zdnn-plugin`
   - To verify that TensorFlow *will* leverage the ibm-zdnn-plugin to transparently target the IBM Integrated Accelerator for AI, issue the below commands. `NNPA` (Neural Network Processing Assist) will be listed as a PhysicalDevice.
 
@@ -164,7 +164,7 @@ unset TF_CPP_MAX_VLOG_LEVEL
 - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 - Red Hat and Red Hat Enterprise Linux are registered trademarks of Red Hat, Inc. in the United States and other countries.
 - IBM, ibm.com, IBM Z, IBM z16,  LinuxONE, LinuxONE Emperor, LinuxONE Rockhopper, LinuxONE III, System z, z16, zEnterprise, z/OS, zSystems, Z Systems and z/VM are trademarks or registered trademarks of the International Business Machines Corporation.
-- Additional license and notice files are within the `licenses-and-notices` directory of this repository. You may access the folder [here](LINK_HERE).
+- Additional license and notice files are within the `licenses-and-notices` directory of this repository. You may access the folder [here](licenses-and-notices).
 
 ## Disclaimer
 

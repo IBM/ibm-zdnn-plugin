@@ -1,0 +1,12 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Jaminan (i125-5589-06) akan berlaku.
+
+Nama Program (Nomor Program):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

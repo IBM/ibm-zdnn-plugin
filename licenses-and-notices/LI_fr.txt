@@ -1,0 +1,12 @@
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM non garantis (i125-5589-06) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+

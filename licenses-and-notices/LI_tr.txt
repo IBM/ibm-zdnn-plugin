@@ -1,0 +1,12 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Garanti Verilmeyen Programlar Ýçin Uluslararasý Lisans Sözleþmesi (i125-5589-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+ibm-zdnn-plugin v1.1 (Tool)
+
+
+L/N: L-AJCQ-M4PQKX
+D/N: L-AJCQ-M4PQKX
+P/N: L-AJCQ-M4PQKX
+
