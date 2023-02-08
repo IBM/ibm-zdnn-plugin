@@ -9,9 +9,10 @@
 5. [Using the Code Samples](#using-the-code-samples)
 6. [Frequently Asked Questions](#frequently-asked-questions)
 7. [Working with us](#working-with-us)
-8. [Licenses](#licensesnotices)
-9. [Tested Linux® Distributions](#tested-linux-distributions)
-10. [Disclaimer](#disclaimer)
+8. [Tested Linux® Distributions](#tested-linux-distributions)
+9. [Logging Levels](#logging-levels)
+10. [Licenses](#licensesnotices)
+11. [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -136,7 +137,7 @@ Contact us directly at [aionz@us.ibm.com](aionz@us.ibm.com) and become a member 
 
 ## Logging Levels
 
-To obtain logging/troubleshooting data about inferencing workloads, set the Tensorflow environment variables 'TF_CPP_MIN_LOG_LEVEL' and 'TF_CPP_MAX_VLOG_LEVEL'.
+To obtain logging/troubleshooting data about inferencing workloads, set the Tensorflow environment variables `TF_CPP_MIN_LOG_LEVEL` and `TF_CPP_MAX_VLOG_LEVEL`.
 
 To enable the highest verbosity of logging, ensure the following environment variables are set as shown (examples show use the Bash shell):
 
