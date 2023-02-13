@@ -98,5 +98,4 @@ if __name__ == '__main__':
     finally:
         # Enable ibm-zdnn-plugin for inference.
         print()
-        if disable_nnpa:
-            del os.environ['NNPA_DEVICES']
+        del os.environ['NNPA_DEVICES']
