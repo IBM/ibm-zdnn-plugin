@@ -1,4 +1,8 @@
-# IBM-zDNN-Plugin v1.1
+# Deprecated
+
+## Please visit [IBM Z Accelerated for TensorFlow](https://github.com/IBM/ibmz-accelerated-for-tensorflow)
+
+# Deprecated - IBM-zDNN-Plugin v1.1
 
 ## Table of Contents
 
